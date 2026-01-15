@@ -102,7 +102,7 @@ NOTE:
    6️⃣ Readonly Tuples
    --------------------------------------------------- */
 
-const location: readonly [number, number] = [28.66, 32.22];
+//const location: readonly [number, number] = [28.66, 32.22];
 
 /*
 NOTE:
